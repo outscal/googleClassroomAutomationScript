@@ -1,0 +1,2 @@
+# googleClassroomAutomationScript
+This is a repo made to hold the google classroom automation code to solve use cases such as Copying/cloning sections from 1 classroom to other , Student progress report , delete a section , list all sections , list all sections and assignments in section , publish and schedule all sections so it provides some missing capabilities to GC(google class room )USAGE DIRECTIONS -  to use it one must open up google sheets go to tools then scripts and paste the script there and name the google sheet tabs as per in code to run it 
